@@ -7,7 +7,7 @@
 body{
 
     background: url(bg.jpg) no-repeat center center fixed;
-    background-size: 100vw;
+    background-size: cover;
 }
 
 .container{
